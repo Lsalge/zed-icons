@@ -2507,6 +2507,7 @@
         "cdp.pid": "json",
         ".lintstagedrc": "lint-staged",
         ".whitesource": "json",
+        ".avsc": "json",
         "json": "json",
         "jsonc": "json",
         "tsbuildinfo": "json",
@@ -2515,6 +2516,7 @@
         "ndjson": "json",
         "hjson": "json",
         "webmanifest": "json",
+        "avsc": "json",
         "jucer": "juce",
         "jule.mod": "jule",
         "jule": "jule",
@@ -4007,9 +4009,6 @@
           "path": "./icons/latte/json-schema.svg"
         },
         "json": {
-          "path": "./icons/latte/json.svg"
-        },
-        "avsc": {
           "path": "./icons/latte/json.svg"
         },
         "juce": {
@@ -7211,6 +7210,7 @@
         "cdp.pid": "json",
         ".lintstagedrc": "lint-staged",
         ".whitesource": "json",
+        ".avsc": "json",
         "json": "json",
         "jsonc": "json",
         "tsbuildinfo": "json",
@@ -7219,6 +7219,7 @@
         "ndjson": "json",
         "hjson": "json",
         "webmanifest": "json",
+        "avsc": "json",
         "jucer": "juce",
         "jule.mod": "jule",
         "jule": "jule",
@@ -8711,9 +8712,6 @@
           "path": "./icons/frappe/json-schema.svg"
         },
         "json": {
-          "path": "./icons/frappe/json.svg"
-        },
-         "avsc": {
           "path": "./icons/frappe/json.svg"
         },
         "juce": {
@@ -11915,6 +11913,7 @@
         "cdp.pid": "json",
         ".lintstagedrc": "lint-staged",
         ".whitesource": "json",
+        ".avsc": "json",
         "json": "json",
         "jsonc": "json",
         "tsbuildinfo": "json",
@@ -11923,6 +11922,7 @@
         "ndjson": "json",
         "hjson": "json",
         "webmanifest": "json",
+        "avsc": "json",
         "jucer": "juce",
         "jule.mod": "jule",
         "jule": "jule",
@@ -13415,9 +13415,6 @@
           "path": "./icons/macchiato/json-schema.svg"
         },
         "json": {
-          "path": "./icons/macchiato/json.svg"
-        },
-         "avsc": {
           "path": "./icons/macchiato/json.svg"
         },
         "juce": {
@@ -16619,6 +16616,7 @@
         "cdp.pid": "json",
         ".lintstagedrc": "lint-staged",
         ".whitesource": "json",
+        ".avsc": "json",
         "json": "json",
         "jsonc": "json",
         "tsbuildinfo": "json",
@@ -16627,6 +16625,7 @@
         "ndjson": "json",
         "hjson": "json",
         "webmanifest": "json",
+        "avsc": "json",
         "jucer": "juce",
         "jule.mod": "jule",
         "jule": "jule",
@@ -18119,9 +18118,6 @@
           "path": "./icons/mocha/json-schema.svg"
         },
         "json": {
-          "path": "./icons/mocha/json.svg"
-        },
-        "avsc": {
           "path": "./icons/mocha/json.svg"
         },
         "juce": {
